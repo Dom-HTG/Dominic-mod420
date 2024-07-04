@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dominic
 - 👀 I’m interested in backend engineering & Prompt engineering.
-- 🌱 I’m currently learning Node/Express & Golang.
+- 🌱 I’m currently learning Node/Express & Go.
 - 💞️ I’m looking to collaborate on server side projects and open source.
 
 
