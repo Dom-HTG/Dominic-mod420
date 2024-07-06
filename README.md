@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dominic
-- 👀 I’m interested in backend engineering & Prompt engineering.
+- 👋 Hi, I’m Dominic Ifechuku (HTG).
+- 👀 I’m interested in backend engineering, system design/architecture & Prompt engineering.
 - 🌱 I’m currently learning Node/Express & Go.
-- 💞️ I’m looking to collaborate on server side projects and open source.
+- 💞️ I’m looking to collaborate on server side projects, open source and AI-powered web Applications.
 
 
 <!---
